@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Suman Puri]]></title>
   <link href="http://sumanp.github.io/atom.xml" rel="self"/>
   <link href="http://sumanp.github.io/"/>
-  <updated>2013-08-29T23:07:49+05:30</updated>
+  <updated>2013-08-29T23:25:41+05:30</updated>
   <id>http://sumanp.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
-    
+    <name><![CDATA[Suman Puri]]></name>
+    <email><![CDATA[mailtosuman.puri@gmail.com]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
