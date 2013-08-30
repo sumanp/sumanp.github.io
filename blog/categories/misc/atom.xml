@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Misc | Suman Puri]]></title>
+  <link href="http://sumanp.github.io/blog/categories/misc/atom.xml" rel="self"/>
+  <link href="http://sumanp.github.io/"/>
+  <updated>2013-08-31T00:18:37+05:30</updated>
+  <id>http://sumanp.github.io/</id>
+  <author>
+    <name><![CDATA[Suman Puri]]></name>
+    <email><![CDATA[mailtosuman.puri@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[In The Begining]]></title>
+    <link href="http://sumanp.github.io/blog/2013/08/30/a-new-begining/"/>
+    <updated>2013-08-30T00:00:00+05:30</updated>
+    <id>http://sumanp.github.io/blog/2013/08/30/a-new-begining</id>
+    <content type="html"><![CDATA[<p><img class="<a" src="href="http://data.whicdn.com/images/16830231/inspiring_quotes_large.jpg">http://data.whicdn.com/images/16830231/inspiring_quotes_large.jpg</a>" title="&lsquo;inspiring&rsquo; &lsquo;Be water&rsquo;" ></p>
+
+<p><blockquote><p>&ldquo;With everything that has happened to you, you can either feel sorry for yourself or treat what has happened as a gift. Everything is either an opportunity to grow or an obstacle to keep you from growing. You get to choose.&rdquo;<br/>-Wayne W. Dyer</p></blockquote></p>
+]]></content>
+  </entry>
+  
+</feed>
