@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Webdevelopment tutorial series | Suman Puri]]></title>
-  <link href="http://sumanp.github.io/blog/categories/webdevelopment-tutorial-series/atom.xml" rel="self"/>
-  <link href="http://sumanp.github.io/"/>
-  <updated>2013-09-07T23:51:25+05:30</updated>
-  <id>http://sumanp.github.io/</id>
+  <link href="http://sumanpuri.tk/blog/categories/webdevelopment-tutorial-series/atom.xml" rel="self"/>
+  <link href="http://sumanpuri.tk/"/>
+  <updated>2013-09-08T00:40:37+05:30</updated>
+  <id>http://sumanpuri.tk/</id>
   <author>
     <name><![CDATA[Suman Puri]]></name>
     <email><![CDATA[mailtosuman.puri@gmail.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[A Path to Webdevelopment &amp; Programming in General: WEEK ONE]]></title>
-    <link href="http://sumanp.github.io/blog/2013/09/07/a-path-to-webdevelopment-and-programming-in-general/"/>
+    <link href="http://sumanpuri.tk/blog/2013/09/07/a-path-to-webdevelopment-and-programming-in-general/"/>
     <updated>2013-09-07T22:32:00+05:30</updated>
-    <id>http://sumanp.github.io/blog/2013/09/07/a-path-to-webdevelopment-and-programming-in-general</id>
+    <id>http://sumanpuri.tk/blog/2013/09/07/a-path-to-webdevelopment-and-programming-in-general</id>
     <content type="html"><![CDATA[<p><img class="<a" src="href="http://3.bp.blogspot.com/-AqRjUUUeQkI/TcLG4YNF-HI/AAAAAAAAAC8/uK0owLHg_Wk/s400/Web-Development-Html-Css.jpg">http://3.bp.blogspot.com/-AqRjUUUeQkI/TcLG4YNF-HI/AAAAAAAAAC8/uK0owLHg_Wk/s400/Web-Development-Html-Css.jpg</a>" width="890" height="280" title="&lsquo;Web Development&rsquo; &lsquo;First Step&rsquo;" ></p>
 
 <p><blockquote><p>The goal of this week is to learn enough html and css to host a static website</p></blockquote></p>
