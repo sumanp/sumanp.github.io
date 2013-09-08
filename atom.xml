@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Suman Puri]]></title>
-  <link href="http://sumanpuri.tk/atom.xml" rel="self"/>
-  <link href="http://sumanpuri.tk/"/>
-  <updated>2013-09-08T00:40:37+05:30</updated>
-  <id>http://sumanpuri.tk/</id>
+  <link href="sumanpuri.tk/atom.xml" rel="self"/>
+  <link href="sumanpuri.tk/"/>
+  <updated>2013-09-08T17:40:59+05:30</updated>
+  <id>sumanpuri.tk/</id>
   <author>
     <name><![CDATA[Suman Puri]]></name>
     <email><![CDATA[mailtosuman.puri@gmail.com]]></email>
@@ -14,10 +14,10 @@
 
   
   <entry>
-    <title type="html"><![CDATA[A Path to Webdevelopment &amp; Programming in General: WEEK ONE]]></title>
-    <link href="http://sumanpuri.tk/blog/2013/09/07/a-path-to-webdevelopment-and-programming-in-general/"/>
+    <title type="html"><![CDATA[A Path to Web Development &amp; Programming in General: WEEK ONE]]></title>
+    <link href="sumanpuri.tk/blog/2013/09/07/a-path-to-webdevelopment-and-programming-in-general/"/>
     <updated>2013-09-07T22:32:00+05:30</updated>
-    <id>http://sumanpuri.tk/blog/2013/09/07/a-path-to-webdevelopment-and-programming-in-general</id>
+    <id>sumanpuri.tk/blog/2013/09/07/a-path-to-webdevelopment-and-programming-in-general</id>
     <content type="html"><![CDATA[<p><img src="http://3.bp.blogspot.com/-AqRjUUUeQkI/TcLG4YNF-HI/AAAAAAAAAC8/uK0owLHg_Wk/s400/Web-Development-Html-Css.jpg" width="890" height="280" title="Web Development" alt="First Step"></p>
 
 <blockquote><p>The goal of this week is to learn enough html and css to host a static website</p></blockquote>
@@ -31,7 +31,7 @@
 <p>By the end of the week you will be familiar with:</p>
 
 <ul>
-<li>HTML5 &CSS3 and</li>
+<li>HTML5 & CSS3 and</li>
 <li>How domain registration and web hosting works.</li>
 </ul>
 
@@ -83,9 +83,9 @@ Tools Required: <a href="http://www.sublimetext.com/">Sublime text</a> and a Web
   
   <entry>
     <title type="html"><![CDATA[In The Begining]]></title>
-    <link href="http://sumanpuri.tk/blog/2013/08/30/a-new-begining/"/>
+    <link href="sumanpuri.tk/blog/2013/08/30/a-new-begining/"/>
     <updated>2013-08-30T00:00:00+05:30</updated>
-    <id>http://sumanpuri.tk/blog/2013/08/30/a-new-begining</id>
+    <id>sumanpuri.tk/blog/2013/08/30/a-new-begining</id>
     <content type="html"><![CDATA[<p><img src="http://data.whicdn.com/images/16830231/inspiring_quotes_large.jpg" title="inspiring" alt="Be water"></p>
 
 <blockquote><p>&#8220;With everything that has happened to you, you can either feel sorry for yourself or treat what has happened as a gift. Everything is either an opportunity to grow or an obstacle to keep you from growing. You get to choose.&#8221; <br/>-Wayne W. Dyer</p></blockquote>

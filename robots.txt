@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://sumanpuri.tk/sitemap.xml 
+Sitemap: sumanpuri.tk/sitemap.xml 
