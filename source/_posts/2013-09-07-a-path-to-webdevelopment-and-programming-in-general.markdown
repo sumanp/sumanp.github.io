@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "A Path to Webdevelopment &amp; Programming in General: WEEK ONE"
+title: "A Path to Web Development &amp; Programming in General: WEEK ONE"
 date: 2013-09-07 22:32
 comments: true
 sharing: true
-categories: [HTML, CSS, Webdevelopment tutorial series]
+categories: [HTML, CSS, Web Development Series]
 
 ---
 
@@ -22,7 +22,7 @@ The goal of this week is to learn enough html and css to host a static website
 By the end of the week you will be familiar with:
 
 <ul>
-<li>HTML5 &CSS3 and</li>
+<li>HTML5 & CSS3 and</li>
 <li>How domain registration and web hosting works.</li>
 </ul>
 
