@@ -1,4 +1,8 @@
 User-agent: *
 Disallow: 
 
+<<<<<<< HEAD
 Sitemap: http://sumanp.github.io/sitemap.xml 
+=======
+Sitemap: http://sumanpuri.tk/sitemap.xml 
+>>>>>>> fd20a3c1bfb4b88b9f998e68f8ad4541048597a8
