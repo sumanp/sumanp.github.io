@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: CSS | Suman Puri]]></title>
+  <link href="http://sumanp.github.io/blog/categories/css/atom.xml" rel="self"/>
+  <link href="http://sumanp.github.io/"/>
+  <updated>2013-09-15T21:16:23+05:30</updated>
+  <id>http://sumanp.github.io/</id>
+  <author>
+    <name><![CDATA[Suman Puri]]></name>
+    <email><![CDATA[mailtosuman.puri@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[A path to Web Development & Programming in General: WEEK TWO]]></title>
+    <link href="http://sumanp.github.io/blog/2013/09/15/a-path-to-web-development-and-programming-in-general-week-two/"/>
+    <updated>2013-09-15T19:40:00+05:30</updated>
+    <id>http://sumanp.github.io/blog/2013/09/15/a-path-to-web-development-and-programming-in-general-week-two</id>
+    <content type="html"><![CDATA[<p><img class="<a" src="href="https://lh5.googleusercontent.com/-DYnPuxFowTg/UjXHCf81_5I/AAAAAAAAABY/H42j8teQ6_w/w675-h345-no/rsz_img-20130914-wa0003-2.jpg">https://lh5.googleusercontent.com/-DYnPuxFowTg/UjXHCf81_5I/AAAAAAAAABY/H42j8teQ6_w/w675-h345-no/rsz_img-20130914-wa0003-2.jpg</a>" width="890" height="280" title="&lsquo;Web Development&rsquo; &lsquo;First MeetUp -M.O.D&rsquo;" ></p>
+
+<p>Week one was good. A lot of enthusiasm could be seen from you guys. Even though things broke, computers, softwares, lack of coordination etc, the meet-up was quite good. The biggest take away from week one is that, first you crawl and then you walk, things will improve as we go on.<!--more--></p>
+
+<br>
+
+
+<p><blockquote><p>The goal of this week is to code your resume and host it online.</p></blockquote></p>
+
+<br>
+
+
+<p><b>By the end of the week  you will be familiar with:</b></p>
+
+<ul>
+<li><a href"http://en.wikipedia.org/wiki/Website_wireframe">Wireframing</a></li>
+<li><a href="http://getbootstrap.com/"> Twitters Bootstrap Framework</a> & </li>
+<li><a href="https://www.youtube.com/watch?v=HrOnrephOlE"> Hosting a Static Website</a></li>
+</ul>
+
+
+
+
+<br>
+
+
+<p>I will cover the above aspects in a tutorial post within a couple of days. Till then, we all have decided to continue playing around with HTML5 &amp; CSS3 until Wednesday to get our basics right.
+So for now, complete the <a href="http://www.codecademy.com/tracks/web">Codecedemy&rsquo;s Web Fundamental track </a> and <a href="http://freecourses.tutsplus.com/30-days-to-learn-html-and-css/">the Netuts HTML &amp; CSS</a>. Get on with it!</p>
+
+<br>
+
+
+<p>Incase the Nettuts videos are streaming, here&rsquo;s an alternate source</p>
+
+<iframe width="640" height="360" src="http://sumanp.github.io//www.youtube.com/embed/bfqBUDk99Tc?list=PL52E0F0A024E913AE" frameborder="0" allowfullscreen></iframe>
+
+
+
+
+<br><br>
+
+
+<p> <blockquote><p>&ldquo;A goal is not always meant to be reached, it often serves simply as something to aim at.&rdquo;<br/>-Bruce Lee</p></blockquote></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[A Path to Web Development &amp; Programming in General: WEEK ONE]]></title>
+    <link href="http://sumanp.github.io/blog/2013/09/07/a-path-to-webdevelopment-and-programming-in-general/"/>
+    <updated>2013-09-07T22:32:00+05:30</updated>
+    <id>http://sumanp.github.io/blog/2013/09/07/a-path-to-webdevelopment-and-programming-in-general</id>
+    <content type="html"><![CDATA[<p><img class="<a" src="href="http://3.bp.blogspot.com/-AqRjUUUeQkI/TcLG4YNF-HI/AAAAAAAAAC8/uK0owLHg_Wk/s400/Web-Development-Html-Css.jpg">http://3.bp.blogspot.com/-AqRjUUUeQkI/TcLG4YNF-HI/AAAAAAAAAC8/uK0owLHg_Wk/s400/Web-Development-Html-Css.jpg</a>" width="890" height="280" title="&lsquo;Web Development&rsquo; &lsquo;First Step&rsquo;" ></p>
+
+<p><blockquote><p>The goal of this week is to learn enough html and css to host a static website</p></blockquote></p>
+
+<br>
+
+
+<p>By the end of the week you will be familiar with:</p>
+
+<ul>
+<li>HTML5 & CSS3 and</li>
+<li>How domain registration and web hosting works.</li>
+</ul>
+
+
+
+
+<!-- more -->
+
+
+<br>
+
+
+<br>
+
+
+<h3>We will use the 80/20 rule (Pareto Principle) as the strategy towards learning</h3>
+
+
+<p>The Pareto principle states that roughly 80% of effects come from 20% of the causes.  We can rephrase this principle like this: roughly, 80% percent of learning is the result of 20% of your effort. We wont take the traditional approach of studying a 500 page book on web development. But instead, we&rsquo;ll learn enough to build something of our own and have something to show  Learn further more, make what we have created more alive and more interactive and have fun at the same time. With this in mind, I have curated a list of well crafted tutorials and courses.</p>
+
+<br>
+
+
+<h3>HTML/CSS: The First Step, lets start with the basics</h3>
+
+
+<p><b><a href="http://www.codecademy.com/tracks/web">Codecedemy&rsquo;s Web Fundamental track </a>:</b>
+This is the best place to set your foot to get started. Everything that you need is in the browser it self. <a href="http://www.codecademy.com/tracks/web">try it now!</a></p>
+
+<p><b><a href="http://freecourses.tutsplus.com/30-days-to-learn-html-and-css/">30 Days to Learn HTML &amp; CSS</a>:</b>
+This course by nettuts teaches you the current techniques that are used in the industry.
+Take small steps.Have some patience and don&rsquo;t just watch the videos. Patrice, practice and practice. Perform each step practically and by practically I mean typing the code in your text editor and testing. It&rsquo;s not gonna sink in if you just watch the videos. I have been there. It shouldn&rsquo;t take more then a week.
+Tools Required: <a href="http://www.sublimetext.com/">Sublime text</a> and a Web Browser</p>
+
+<br>
+
+
+<p>You can switch between the tracks or approach both simultaneously. Remember that next saturday is the deadline to show your work. We&rsquo;ll probably sit at candies, its gonna be fun. Also, don&rsquo;t forget to take screenshots of your progress and post it in the groups (whatsapp or facebook). Happy Coding! :D</p>
+
+<br>
+
+
+<p><blockquote><p>your future is created by what you do today, not tomorrow. -Robert Kiyosaki</p></blockquote></p>
+]]></content>
+  </entry>
+  
+</feed>
